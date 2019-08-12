@@ -1,0 +1,3 @@
+TDM     https://data.tmd.go.th/api/index1.php
+KBANK   https://www.blognone.com/node/110154
+SCB     https://www.blognone.com/node/109936
